@@ -15,7 +15,7 @@ If you already have the repository for the project downloaded, skip steps 1 & 2.
 2. Select the desired repository from the list, and click the clone button.
 3. Make sure the current repository (top left) is the one you want to open.
 4. Make sure you have the latest files downloaded.
-5. Click the `Open in Visual Studio Code` button.
+5. Click the `Open in Visual Studio Code` button (alternativeley, you can find this option under the repository dropdown on the top left).
    
 Visual Studio Code should now open and initialize the repository as a PlatformIO project.  
-Changes can be pushed/pulled using either the Github Desktop App or Visual Studio Code's `Source Control` interface.
+Changes can be pushed/pulled using either the Github Desktop App or Visual Studio Code's `Source Control` interface. You may find the GitHub app to be somewhat more user friendly.
