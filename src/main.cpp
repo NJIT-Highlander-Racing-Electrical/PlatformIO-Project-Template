@@ -7,7 +7,7 @@
 
 #include <Arduino.h>
 // The current version of the CAN Bus library includes a watchdog timer that reboots the ESP=32 after ~5 seconds if it cannot find any CAN modules to connect to. Keep the include statement commented out unless a physical connection to other CAN modules is present.
-// #include "BajaCAN.h"
+// #include "BajaCAN.h" 
 
 // put function declarations here:
 int myFunction(int, int);
